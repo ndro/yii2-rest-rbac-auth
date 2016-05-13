@@ -4,7 +4,7 @@ Yii 2 RESTful with RBAC _*pretty url_
 Konfigurasi
 -------------
 
-### API Structure
+##### API Structure
 
 Berikut adalah structure API yang digunakan,
 
@@ -16,7 +16,7 @@ Berikut adalah structure API yang digunakan,
 |==== controllers
 ```
 
-### Database
+##### Database
 
 Ubah konfigurasi database pada direktori `config/db.php`, contoh
 ```php
